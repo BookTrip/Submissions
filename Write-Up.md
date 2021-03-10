@@ -1,6 +1,6 @@
-#Poject Write-up
+# Poject Write-up
 
-##The more that you read, the more things you will know. The more that you learn, the more places you’ll go. ~ Dr. Seuss
+## "The more that you read, the more things you will know. The more that you learn, the more places you’ll go. ~ Dr. Seuss"
 
 Project BookTrip is an online books database management system which provides users with digitalised versions of books, including both text and audio versions. The database will consist of registered user information, a catalogue of book media, authors, publishers, description of the book, genre or category of the book, user’s comments and reviews, etc. 
 Each user will be able to store his or her purchased books in a personalised library. The supplier and customer information would include all transactions, bill receipts, orders and any other relevant information.
